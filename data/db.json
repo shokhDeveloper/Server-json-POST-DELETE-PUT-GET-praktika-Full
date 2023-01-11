@@ -1,0 +1,134 @@
+{
+  "posts": [
+    {
+      "title": "leo",
+      "body": "leo",
+      "date": "11.01.2023-17:09",
+      "id": 1
+    },
+    {
+      "title": "leo ",
+      "body": "Messi",
+      "date": "11.01.2023-17:12 Create-at",
+      "id": 2
+    },
+    {
+      "title": "leo",
+      "body": "leo",
+      "date": "11.01.2023-17:12 Create-at",
+      "user_id": 1,
+      "id": 3
+    },
+    {
+      "title": "salom",
+      "body": "salom",
+      "date": "11.01.2023-17:22 Create-at",
+      "user_id": 1,
+      "id": 4
+    },
+    {
+      "title": "Shohijahon",
+      "body": "Shohijahon",
+      "date": "11.01.2023-17:27 Create-at",
+      "user_id": 1,
+      "user": "ShohijahonMusinkulov",
+      "id": 5
+    },
+    {
+      "title": "leo",
+      "body": "leo",
+      "date": "11.01.2023-18:08 Create-at",
+      "user_id": 1,
+      "user": "ShohijahonMusinkulov",
+      "id": 6
+    },
+    {
+      "title": "Mening",
+      "body": "ohirgi postim",
+      "date": "11.01.2023-18:11 Create-at",
+      "user_id": 1,
+      "user": "ShohijahonMusinkulov",
+      "id": 7
+    },
+    {
+      "title": "leo",
+      "body": "leo",
+      "date": "11.01.2023-18:13 Create-at",
+      "user_id": 1,
+      "user": "ShohijahonMusinkulov",
+      "id": 8
+    },
+    {
+      "title": "leo",
+      "body": "leo",
+      "date": "11.01.2023-18:13 Create-at",
+      "user_id": 1,
+      "user": "ShohijahonMusinkulov",
+      "id": 9
+    },
+    {
+      "title": "salom",
+      "body": "salom",
+      "status": "published",
+      "id": 10
+    },
+    {
+      "title": "leo",
+      "body": "leo",
+      "status": "published",
+      "id": 11
+    },
+    {
+      "title": "Yana ",
+      "body": "mENI pOSTIM",
+      "status": "published",
+      "id": 12
+    },
+    {
+      "title": "usha gap",
+      "body": "Karochi",
+      "status": "published",
+      "id": 13
+    },
+    {
+      "title": "Meni postim",
+      "body": "Meni Postim",
+      "date": "11.01.2023-19:54 Create-at",
+      "user_id": 2,
+      "user": "IbragimBashatov",
+      "id": 14
+    },
+    {
+      "title": "Nodirjon",
+      "body": "Yorbekov",
+      "user": "NodirjonYurbekov",
+      "user_id": 3,
+      "date": "11.01.2023-20:01 Update-at",
+      "status": "published",
+      "id": 15
+    }
+  ],
+  "users": [
+    {
+      "email": "shohijahonmusinkulov@gmail.com",
+      "password": "$2a$10$/T7J9V99fefN8uzE/5tF5ODZQLszl2ndE3EmpG3UBZ9p45hTqS4Bq",
+      "firstname": "Shohijahon",
+      "lastname": "Musinkulov",
+      "id": 1
+    },
+    {
+      "email": "ibragimbashatov@gmail.com",
+      "password": "$2a$10$lW6txMddojmhFKPezHWczePCWkBA2w57V10YnyH.69zJWiyIdAObu",
+      "firstname": "Ibragim",
+      "lastname": "Bashatov",
+      "id": 2
+    },
+    {
+      "email": "yorbekovnodir@gmail.com",
+      "password": "$2a$10$4AFjKuG4jHexFPkqDPSAe.mywKxcDNXapcQ8k3r29DPEcDVZ/Uee6",
+      "firstname": "Nodirjon",
+      "lastname": "Yurbekov",
+      "id": 3
+    }
+  ]
+}
